@@ -4,10 +4,12 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Hi,I'm "Deng Panom",a Cybersecurity and cloud Security.
--Skilled in Network & Web APP Security
--Passionate about CTFs 
--Building a safer cyberspace through awareness and reseach
--Exploring ,AI, ML and DL
+Hi,I'm "Deng panom", a Cybersecurity and CLoud Security.
+-Skilled in Network & Web App Security.
+-Passionate about CTFs.
+-Building a safer Cyberspace through awareness and reseach
+-Exploring ,AL,ML and Dl
+
+
 
 
