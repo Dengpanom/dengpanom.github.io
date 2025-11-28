@@ -7,8 +7,8 @@ order: 4
 Hi,I'm "Deng panom", a Cybersecurity and CLoud Security.
 -Skilled in Network & Web App Security.
 -Passionate about CTFs.
--Building a safer Cyberspace through awareness and reseach
--Exploring ,AL,ML and Dl
+-Building a safer Cyberspace through awareness and reseach.
+-Exploring ,AL,ML and Dl.
 
 
 
