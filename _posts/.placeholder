@@ -1,1 +1,14 @@
+---
+Title: "Introduction to Web Vulnerabilities"
+Date:2025-10-25
+Categories:(Cybersecurity , Web)
+Tags:(XSS , SQL)
+---
 
+Web Vulnerabilities are common entry points for attackers in this post we'll explor "SQL-injection" and "XSS" --two of the OWASP top 10.
+
+## SQL Injection
+this occurs when unsainitized input is used in database queires.
+{SQl Injection Example}[/assets/sqlinjection.org][with:"600"]
+## XSS
+Cross-site scripting allow attackers to inject scripts.into web pages viewed by others.
