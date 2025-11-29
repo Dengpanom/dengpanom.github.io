@@ -9,6 +9,6 @@ Web Vulnerabilities are common entry points for attackers in this post we'll exp
 
 ## SQL Injection
 this occurs when unsainitized input is used in database queires.
-{SQl Injection Example}[/assets/sqlinjection.org][with:"600"]
+[SQl Injection Example][/assets/sqlinjection.org][with:"600"]
 ## XSS
 Cross-site scripting allow attackers to inject scripts.into web pages viewed by others.
